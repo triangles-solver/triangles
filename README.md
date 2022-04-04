@@ -4,7 +4,7 @@
 
 ## Overview
 
-Using the [Law of Cosines](https://en.wikipedia.org/wiki/Law_of_cosines) and the [Law of Sines](https://en.wikipedia.org/wiki/Law_of_sines), this library can be used to calculate all remaining sides and angles of a triangle when any one of the following sets of inputs are available.
+Using the [Law of cosines](https://en.wikipedia.org/wiki/Law_of_cosines) and the [Law of sines](https://en.wikipedia.org/wiki/Law_of_sines), this library can be used to calculate all remaining sides and angles of a triangle when any one of the following sets of inputs are available.
  1. The length of 2 adjacent sides and their interior angle (SAS)
  2. The value of 2 angles and the length of the common side (ASA)
  3. The lengths of all 3 sides of the triangle (SSS)
